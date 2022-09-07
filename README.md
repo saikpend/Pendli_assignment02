@@ -14,3 +14,9 @@ Directions to reach museum:-
 2. Operated by Greater Cleveland Transit.
 3. the Cleveland Airport (CLE) to Cleveland Museum of Art service departs from Airport Station and arrives in Cleveland Museum of Art. 
 4. Typically 567 services run weekly, although weekend and holiday schedules can vary so check in advance.
+
+# Things To See In Cleveland
+* University Circle
+* Cleveland Botanical Garden
+* Cleveland Museum of Natural History
+* Cleveland History Center
