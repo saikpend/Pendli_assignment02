@@ -9,14 +9,3 @@ One of my main professional goals is to one day become a software developer.
 
 ![saikiran.image](https://github.com/saikpend/Pendli_assignment02/blob/main/saikiran.jpeg)
 
----
-
-## Most Beautiful Cities in the india to Visit:
-
-From coast to coast, the most beautiful cities in the india prove that this country truly is india the Beautiful. Sure, a long list of things to do throughout the states includes natural wonders, amazing restaurants, and impressive architecture, but you'll find that certain cities have it all plus stunning looks to back it up.
-
- |name of a city|important location|time to spend|
- | --- | --- | --- |
- |hyderabad |miyapur|5hr|
- |karimnagar|ramnagar|4hr|
- |khammam   |sathupalli|6hr|

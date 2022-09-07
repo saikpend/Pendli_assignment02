@@ -20,3 +20,21 @@ Directions to reach museum:-
 * Cleveland Botanical Garden
 * Cleveland Museum of Natural History
 * Cleveland History Center
+
+---
+
+## Most Beautiful Cities in the india to Visit:
+
+From coast to coast, the most beautiful cities in the india prove that this country truly is india the Beautiful. Sure, a long list of things to do throughout the states includes natural wonders, amazing restaurants, and impressive architecture, but you'll find that certain cities have it all plus stunning looks to back it up.
+
+ |name of a city|important location|time to spend|
+ | --- | --- | --- |
+ |hyderabad |miyapur|5hr|
+ |karimnagar|ramnagar|4hr|
+ |khammam   |sathupalli|6hr|
+ 
+ ***
+ 
+ >"But I am very poorly today&very stupid&I hate everybody&everything.One lives only to make blunders." -Charles Darwin
+ >
+ >"Everything is hard before it is easy." -Johann Wolfgang Von Goethe
