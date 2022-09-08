@@ -36,7 +36,7 @@ From coast to coast, the most beautiful cities in the india prove that this coun
  ***
  
  ## Quotes
- 
+
  >"But I am very poorly today&very stupid&I hate everybody&everything.One lives only to make blunders." -*Charles Darwin*
  >
  >"Everything is hard before it is easy." -*Johann Wolfgang Von Goethe*
@@ -47,7 +47,7 @@ From coast to coast, the most beautiful cities in the india prove that this coun
 
  >img src SVG changing the styles with CSS
 
- answer:https://stackoverflow.com/questions/24933430/img-src-svg-changing-the-styles-with-css
+ answer:<https://stackoverflow.com/questions/24933430/img-src-svg-changing-the-styles-with-css>
 
  <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
   <path d="M0 0h24v24H0z" fill="none"/>
