@@ -35,9 +35,11 @@ From coast to coast, the most beautiful cities in the india prove that this coun
  
  ***
  
- >"But I am very poorly today&very stupid&I hate everybody&everything.One lives only to make blunders." -Charles Darwin
+ ## Quotes
+ 
+ >"But I am very poorly today&very stupid&I hate everybody&everything.One lives only to make blunders." -*Charles Darwin*
  >
- >"Everything is hard before it is easy." -Johann Wolfgang Von Goethe
+ >"Everything is hard before it is easy." -*Johann Wolfgang Von Goethe*
 
  ----
 
