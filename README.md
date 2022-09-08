@@ -21,6 +21,8 @@ Directions to reach museum:-
 * Cleveland Museum of Natural History
 * Cleveland History Center
 
+[To know more about me](https://github.com/saikpend/Pendli_assignment02/blob/main/AboutMe.md)
+
 ---
 
 ## Most Beautiful Cities in the india to Visit:
